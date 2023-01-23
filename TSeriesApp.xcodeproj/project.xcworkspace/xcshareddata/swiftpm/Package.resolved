@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": "master",
+          "revision": "ce7f662709a152e840b130a158b9afef3402e146",
+          "version": null
+        }
+      },
+      {
+        "package": "CodableX",
+        "repositoryURL": "https://github.com/dscyrescotti/CodableX.git",
+        "state": {
+          "branch": "main",
+          "revision": "9e0ac1d2b76e926c14b880b4a3ed09d2b50f116e",
+          "version": null
+        }
+      },
+      {
+        "package": "KeychainAccess",
+        "repositoryURL": "https://github.com/kishikawakatsumi/KeychainAccess.git",
+        "state": {
+          "branch": "master",
+          "revision": "6299daec1d74be12164fec090faf9ed14d0da9d6",
+          "version": null
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://github.com/onevcat/Kingfisher.git",
+        "state": {
+          "branch": "master",
+          "revision": "0ce2b6b09be2f46c505e31ca012ad555ef6160a9",
+          "version": null
+        }
+      },
+      {
+        "package": "LazyViewSwiftUI",
+        "repositoryURL": "https://github.com/joehinkle11/Lazy-View-SwiftUI",
+        "state": {
+          "branch": "master",
+          "revision": "0f838ed8eb0beb3faab35aae225f2545a1dd5338",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
