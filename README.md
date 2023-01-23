@@ -19,14 +19,6 @@ To Install and run the app on xcode
 ## Screenshots
 Below are some of the screenshot from the app
 
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-01-23 at 09 50 47]()
-![11594689096wsek0wdgxnkc9pzj9wdksmbv1caogo6rxnw8y0x6vihkbbu3atdt3mlipqgidt0mby8bu2xrfnhrmr5as9dj1ibpwou9klre00lf]()
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-01-23 at 09 33 15]()
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-01-23 at 09 33 09]()
-![Simulator Screen Shot - iPhone 13 Pro Max - 2023-01-23 at 09 32 56]()
-![simulator_screenshot_0936D545-EDDA-4170-ADC4-50E14C173A15]()
-
-
 | Screenshot | Screenshot |
 | ------ | ------ |
 | <img src="https://user-images.githubusercontent.com/91916741/213982328-0fc6584c-d17a-47bc-b03e-764ed7c6bf41.png" width="50%" /> | <img src="https://user-images.githubusercontent.com/91916741/213981923-1b3a5af5-9540-4aa6-87a7-a175b9ca8ea7.png" width="50%" /> |
